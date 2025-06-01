@@ -2,10 +2,6 @@
 <h3 align="center">Estudante de Engenharia de Software buscando conhecimento todos os dias</h3>
 
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="430" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3d profile status">
-</a>
-
 - 🔭 Atualmente estou trabalhando em projetos pessoais
 
 - 🌱 Sempre aprendendo sobre **novas linguagens e ferramentas**
