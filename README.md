@@ -6,6 +6,8 @@
 
 - 🌱 Sempre aprendendo sobre **novas linguagens e ferramentas**
 
+- 💬 Me pergunte sobre **react, java e python**
+
 - 📫 Como me encontrar: rafafbarra@gmail.com
 
 - ⚡ Curiosidade: Eu amo videogames, tecnologia e formula 1
