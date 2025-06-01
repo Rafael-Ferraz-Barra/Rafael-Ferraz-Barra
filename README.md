@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, eu sou o Rafael Ferraz Barra</h1>
+<h3 align="center">Estudante de Engenharia de Software buscando conhecimento todos os dias</h3>
 
-<!--
-**Rafael-Ferraz-Barra/Rafael-Ferraz-Barra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="430" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3d profile status">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou trabalhando em projetos pessoais
+
+- 🌱 Sempre aprendendo sobre **novas linguagens e ferramentas**
+
+- 📫 Como me encontrar: rafafbarra@gmail.com
+
+- ⚡ Curiosidade: Eu amo videogames, tecnologia e formula 1
+<br/>
+
+
+
+<!-- connect with me section -->
+<div id="user-content-toc">
+  <ul>
+    <summary><h2 style="display: inline-block">Onde me encontrar 🤝</h2></summary>
+  </ul>
+</div>
+
+<p>
+  <div  class="icons-social" style="margin-left: 10px;">
+    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/rafael-ferraz-barra/"> 
+      <img width=40 src="https://skillicons.dev/icons?i=linkedin">    
+  </div>
+</p>
+
+
+<!-- technologies session -->
+<div id="user-content-toc">
+  <ul>
+    <summary><h2 style="display: inline-block">Tecnologias e Ferramentas 🔧</h2></summary>
+  </ul>
+</div>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,materialui,java,spring,mongodb,mysql,docker,git,aws,cs,dotnet,py,graphql," />
+  </a>
+</p>
